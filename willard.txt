@@ -1,0 +1,5 @@
+"name",x_cord,y_cord,dimension_x,dimension_y,state
+"Memo",280,450,210,780,0
+"Terrace",40,200,455,210,1
+"Lobby",628,180,270,240,0
+"Library",628,430,270,330,0

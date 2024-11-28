@@ -1,0 +1,1 @@
+"name",x_cord,y_cord,dimension_x,dimension_y,state
